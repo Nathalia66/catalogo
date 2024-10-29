@@ -1,15 +1,17 @@
 body{  
-    background-color: black;
-    color:black;
+    background-color: violet;
+    color:white;
     margin: 0px;
 }
 
 header{
-  border-bottom: solid 2px black; 
+  border-bottom: solid 2px white; 
   padding: 20px;
   font-size: 32px;
   color:white;
 }
 section{
-  background-color: violet;
+  background-color: pink;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
